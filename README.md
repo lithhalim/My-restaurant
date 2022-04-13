@@ -1,2 +1,2 @@
 # My-restaurant
-store
+![](./lolaa.png)
